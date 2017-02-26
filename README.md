@@ -4,7 +4,7 @@ This repository hosts 2 programs:
 The first (compiled from the source files in the "Reads Generator" folder) randomly generates reads from a FASTA file.
 The second (from the "Assembler" folder) assembles the fragments into the original sequence.
 
-# GENERAL DESCRIPTION
+# General Description
 
 This program is the result of a very simple genome assembly challenge I found online at the following address:
 
@@ -19,7 +19,7 @@ https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms
 
 
 
-# COMPILATION INSTRUCTIONS
+# Compilation Instructions
 
 1.) Edit the code files to use appropriate file addresses for the FASTA file and the text file containing the reads.
 
