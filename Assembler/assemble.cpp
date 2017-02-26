@@ -1,8 +1,5 @@
 /****************************
-* SHOTGUN SEQUENCING (aco)
-*
-* Greedy implementation using Lowest Common Substring
-* algorithm.
+* SHOTGUN SEQUENCING (ACO).
 *
 * @author Musa Jundi
 * @version 0.0 2/7/2017
