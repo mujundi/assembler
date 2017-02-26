@@ -8,8 +8,11 @@ The second (from the "Assembler" folder) assembles the fragments into the origin
 COMPILATION INSTRUCTIONS
 
 1.) Edit the code files to use appropriate file addresses for the FASTA file and the text file containing the reads.
+
 2.) Compile the "reads_generator.cpp" file and run the executable.
+
 3.) Move the reads file to the desired location.
+
 4.) Compile all source files in the "Assembler" folder into one executable and run it.
 
 
